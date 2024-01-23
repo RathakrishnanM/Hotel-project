@@ -1,0 +1,94 @@
+.bookings-container {
+    display: flex;
+    flex-wrap: wrap;
+ 
+  }
+  
+  .booking-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ded8ef ;
+  }
+
+
+.booking-info {
+    margin: 10px 0;
+    line-height: 1.5;
+  }
+  
+  
+  h1 .c {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #555;
+  }
+  
+  strong {
+    color: #555;
+    font-weight: bold;
+  }
+  
+  
+  
+
+
+  
+  .booking-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .booking-info {
+    margin-bottom: 8px;
+  }
+  
+  .iconsc {
+    display: flex;
+    align-items: center;
+  }
+  
+  .iconsc i {
+    margin-right: 5px;
+  }
+  
+  /* Adjust the space between the icons and description */
+  .iconsc p {
+    margin-left: 10px;
+  }
+  
+  
+  .booking-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .booking-info {
+    margin-bottom: 8px;
+  }
+  
+  .icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .icons i {
+    margin-right: 10px; /* Adjust the space between the icons and the description */
+  }
+  
+  .icons p {
+    flex: 1; /* Take up remaining space to the right */
+  }
+  .highlight {
+    color: #6d2480; /* Set your desired color */
+    font-weight: bold;
+  }
+
+  
+  
+  
